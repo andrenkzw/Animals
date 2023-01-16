@@ -38,7 +38,6 @@ abstract class Animal
             $"Nome: {this.Nome}" +
             $"\nData de Nascimento: {this.DataNascimento}" +
             $"\nSexo: {this.Sexo}" +
-            $"\nIdade: {this.Idade}" +
             "\nCarnívoro? " + (this.Carnivoro ? "Sim" : "Não") +
             "\nPeçonhento? " + (this.Peconhento ? "Sim" : "Não")
         ;
